@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1",
+  "versionCode": 5,
+  "versionName": "1.2",
   "forceUpdate": false,
   "updateMessage": "Nueva versión disponible con mejoras en el sistema de favoritos y publicidad optimizada",
   "releaseNotes": [
@@ -12,3 +12,4 @@
   "minSupportedVersion": 3,
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.cuchareando.app"
 }
+
