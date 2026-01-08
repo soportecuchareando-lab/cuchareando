@@ -1,15 +1,15 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2",
+  "versionCode": 6,
+  "versionName": "1.3",
   "forceUpdate": false,
-  "updateMessage": "Nueva versión disponible con mejoras en el sistema de favoritos y publicidad optimizada",
+  "updateMessage": "Nueva versión con perfil de usuario personalizable y notificaciones diarias variadas",
   "releaseNotes": [
-    "✅ Sistema de favoritos mejorado",
-    "✅ Publicidad optimizada",
-    "✅ Corrección de bugs",
+    "✅ Nuevo sistema de perfil de usuario con avatares personalizables",
+    "✅ Notificaciones diarias con mensajes variados (11 AM y 5 PM)",
+    "✅ Personalización de nombre del chef",
+    "✅ 12 avatares disponibles para elegir",
     "✅ Mejoras de rendimiento"
   ],
   "minSupportedVersion": 3,
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.cuchareando.app"
 }
-
