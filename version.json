@@ -4,10 +4,10 @@
   "forceUpdate": false,
   "updateMessage": "Nueva versión con perfil de usuario personalizable y notificaciones diarias variadas",
   "releaseNotes": [
-    "✅ Nuevo sistema de perfil de usuario con avatares personalizables",
-    "✅ Personalización de nombre del chef",
-    "✅ 12 avatares disponibles para elegir",
-    "✅ Mejoras de rendimiento"
+    🔔 Nuevas notificaciones con ideas de recetas
+    📤 Comparte recetas fácilmente
+    🎨 Mejoras en la interfaz
+    ⚡ Optimización y corrección de errores
   ],
   "minSupportedVersion": 3,
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.cuchareando.app"
